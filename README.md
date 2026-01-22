@@ -1,5 +1,5 @@
-#0121-2026-Udemy-Lesson86 [tic-tac-toe]
-# human plays X and moves first; computer plays O , second
+# 0121-2026-Udemy-Lesson86 [tic-tac-toe] text based
+- human plays X and moves first; computer plays O , second
 
 What was hard, what was easy. 
 - displaying the board easy
